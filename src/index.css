@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+ 
+body {
+  font-family: 'Roboto', sans-serif;
+}
+ 
+input, button {
+  height: 35px;
+  font-family: inherit;
+  padding: 0 5px;
+}
